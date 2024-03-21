@@ -9,3 +9,4 @@ ceci est un test
 
 encore un test ^---\n.+\n---\n
 
+![canvas test](./canvas%20test.canvas.md)

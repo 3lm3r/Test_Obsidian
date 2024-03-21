@@ -3,7 +3,11 @@ type: note_rapide
 date: 2024-03-21 13:50:27
 ---
 # [note rapide](note%20rapide.md)
-tag vers tags
+## second titre
+### 3ème titre
+#### 4ème titre
+##### 5ème titre
 
-change ^---\n(?:^.+\n)*^---\n
+*italique* **bold** ***fjfjfj***
 
+---
